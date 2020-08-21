@@ -3,3 +3,9 @@ berries
 cherries
 oranges
 pears
+
+pommes
+baies
+cerises
+oranges
+poires
